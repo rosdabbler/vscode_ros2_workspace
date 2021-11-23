@@ -3,7 +3,7 @@ name: docs
 on:
   push:
     branches:
-      - "foxy"
+      - "rolling"
   workflow_dispatch:
 
 jobs:
